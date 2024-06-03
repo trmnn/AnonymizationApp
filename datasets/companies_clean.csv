@@ -1,0 +1,1001 @@
+company,city
+Walmart,Bentonville
+Amazon,Seattle
+Apple,Cupertino
+CVS Health,Woonsocket
+UnitedHealth Group,Minnetonka
+Exxon Mobil,Irving
+Berkshire Hathaway,Omaha
+Alphabet,Mountain View
+McKesson,Irving
+AmerisourceBergen,Conshohocken
+Costco Wholesale,Issaquah
+Cigna,Bloomfield
+AT&T,Dallas
+Microsoft,Redmond
+Cardinal Health,Dublin
+Chevron,San Ramon
+Home Depot,Atlanta
+Walgreens Boots Alliance,Deerfield
+Marathon Petroleum,Findlay
+Elevance Health,Indianapolis
+Kroger,Cincinnati
+Ford Motor,Dearborn
+Verizon Communications,New York
+JPMorgan Chase,New York
+General Motors,Detroit
+Centene,St. Louis
+Meta Platforms,Menlo Park
+Comcast,Philadelphia
+Phillips 66,Houston
+Valero Energy,San Antonio
+Dell Technologies,Round Rock
+Target,Minneapolis
+Fannie Mae,Washington
+United Parcel Service,Atlanta
+Lowe's,Mooresville
+Bank of America,Charlotte
+Johnson & Johnson,New Brunswick
+Archer Daniels Midland,Chicago
+FedEx,Memphis
+Humana,Louisville
+Wells Fargo,San Francisco
+State Farm Insurance,Bloomington
+Pfizer,New York
+Citigroup,New York
+PepsiCo,Purchase
+Intel,Santa Clara
+Procter & Gamble,Cincinnati
+General Electric,Boston
+IBM,Armonk
+MetLife,New York
+Prudential Financial,Newark
+Albertsons,Boise
+Walt Disney,Burbank
+Energy Transfer,Dallas
+Lockheed Martin,Bethesda
+Freddie Mac,McLean
+Goldman Sachs Group,New York
+Raytheon Technologies,Waltham
+HP,Palo Alto
+Boeing,Chicago
+Morgan Stanley,New York
+HCA Healthcare,Nashville
+AbbVie,North Chicago
+Dow,Midland
+Tesla,Austin
+Allstate,Northbrook
+American International Group,New York
+Best Buy,Richfield
+Charter Communications,Stamford
+Sysco,Houston
+Merck,Kenilworth
+New York Life Insurance,New York
+Caterpillar,Deerfield
+Cisco Systems,San Jose
+TJX,Framingham
+Publix Super Markets,Lakeland
+ConocoPhillips,Houston
+Liberty Mutual Insurance Group,Boston
+Progressive,Mayfield Village
+Nationwide,Columbus
+Tyson Foods,Springdale
+Bristol-Myers Squibb,New York
+Nike,Beaverton
+Deere,Moline
+American Express,New York
+Abbott Laboratories,Abbott Park
+StoneX Group,New York
+Plains GP Holdings,Houston
+Enterprise Products Partners,Houston
+TIAA,New York
+Oracle,Austin
+Thermo Fisher Scientific,Waltham
+Coca-Cola,Atlanta
+General Dynamics,Reston
+CHS,Inver Grove Heights
+USAA,San Antonio
+Northwestern Mutual,Milwaukee
+Nucor,Charlotte
+Exelon,Chicago
+Massachusetts Mutual Life Insurance,Springfield
+Northrop Grumman,Falls Church
+3M,St. Paul
+Travelers,New York
+Arrow Electronics,Centennial
+Honeywell International,Charlotte
+Dollar General,Goodlettsville
+Qualcomm,San Diego
+Capital One Financial,McLean
+TD Synnex,Fremont
+Philip Morris International,New York
+World Fuel Services,Miami
+Performance Food Group,Richmond
+Delta Air Lines,Atlanta
+American Airlines Group,Fort Worth
+Netflix,Los Gatos
+Paramount Global,New York
+US Foods Holding,Rosemont
+Danaher,Washington
+Jabil,St. Petersburg
+Starbucks,Seattle
+Mondelez International,Chicago
+Eli Lilly,Indianapolis
+Hewlett Packard Enterprise,Houston
+D.R. Horton,Arlington
+Molina Healthcare,Long Beach
+CBRE Group,Dallas
+Micron Technology,Boise
+Broadcom,San Jose
+Gilead Sciences,Foster City
+PBF Energy,Parsippany
+Lennar,Miami
+United Natural Foods,Providence
+NRG Energy,Houston
+Nvidia,Santa Clara
+Occidental Petroleum,Houston
+Salesforce,San Francisco
+Dollar Tree,Chesapeake
+KKR,New York
+Kraft Heinz,Chicago
+Amgen,Thousand Oaks
+AutoNation,Fort Lauderdale
+Penske Automotive Group,Bloomfield Hills
+PayPal,San Jose
+Macy's,New York
+Duke Energy,Charlotte
+United Airlines Holdings,Chicago
+Visa,San Francisco
+Rite Aid,Camp Hill
+Cummins,Columbus
+U.S. Bancorp,Minneapolis
+Paccar,Bellevue
+McDonald's,Chicago
+Southern,Atlanta
+C.H. Robinson Worldwide,Eden Prairie
+Truist Financial,Charlotte
+Applied Materials,Santa Clara
+Freeport-McMoRan,Phoenix
+Lithia Motors,Medford
+Blackstone,New York
+Hartford Financial Services Group,Hartford
+Aflac,Columbus
+Whirlpool,Benton Harbor
+Union Pacific,Omaha
+International Paper,Memphis
+Altria Group,Richmond
+CDW,Lincolnshire
+ManpowerGroup,Milwaukee
+PG&E,San Francisco
+Carrier Global,Palm Beach Gardens
+Baker Hughes,Houston
+Cleveland-Cliffs,Cleveland
+United States Steel,Pittsburgh
+Becton Dickinson,Franklin Lakes
+CarMax,Richmond
+Sherwin-Williams,Cleveland
+Builders FirstSource,Dallas
+Marsh & McLennan,New York
+PNC Financial Services Group,Pittsburgh
+Lumen Technologies,Monroe
+Avnet,Phoenix
+Tenet Healthcare,Dallas
+Kimberly-Clark,Irving
+Kohl's,Menomonee Falls
+BlackRock,New York
+Jones Lang LaSalle,Chicago
+Lear,Southfield
+Lincoln National,Radnor
+Charles Schwab,Westlake
+Ross Stores,Dublin
+Mastercard,Purchase
+Genuine Parts,Atlanta
+WestRock,Atlanta
+EOG Resources,Houston
+Cognizant Technology Solutions,Teaneck
+Moderna,Cambridge
+Steel Dynamics,Fort Wayne
+HF Sinclair,Dallas
+Texas Instruments,Dallas
+Emerson Electric,St. Louis
+WESCO International,Pittsburgh
+General Mills,Minneapolis
+Tenneco,Lake Forest
+Waste Management,Houston
+Viatris,Canonsburg
+DISH Network,Englewood
+L3Harris Technologies,Melbourne
+DXC Technology,Tysons
+Block,San Francisco
+Goodyear Tire & Rubber,Akron
+Uber Technologies,San Francisco
+Colgate-Palmolive,New York
+Stanley Black & Decker,New Britain
+DuPont,Wilmington
+Stryker,Kalamazoo
+NextEra Energy,Juno Beach
+Targa Resources,Houston
+Western Digital,San Jose
+PPG Industries,Pittsburgh
+American Electric Power,Columbus
+Gap,San Francisco
+BJ&#8217;s Wholesale Club,Westborough
+Reinsurance Group of America,Chesterfield
+Kinder Morgan,Houston
+Oneok,Tulsa
+Expeditors Intl. of Washington,Seattle
+Advanced Micro Devices,Santa Clara
+Fiserv,Brookfield
+Estée Lauder,New York
+Bank of New York Mellon,New York
+Laboratory Corp. of America,Burlington
+Regeneron Pharmaceuticals,Tarrytown
+Land O'Lakes,Arden Hills
+Cheniere Energy,Houston
+Southwest Airlines,Dallas
+Adobe,San Jose
+Synchrony Financial,Stamford
+Corteva,Indianapolis
+Fidelity National Financial,Jacksonville
+DTE Energy,Detroit
+Murphy USA,El Dorado
+Halliburton,Houston
+Automatic Data Processing,Roseland
+Edison International,Rosemead
+BorgWarner,Auburn Hills
+Nordstrom,Seattle
+Loews,New York
+Guardian Life Ins. Co. of America,New York
+Pioneer Natural Resources,Irving
+AutoZone,Memphis
+Lam Research,Fremont
+American Family Insurance Group,Madison
+Illinois Tool Works,Glenview
+Parker-Hannifin,Cleveland
+Otis Worldwide,Farmington
+Omnicom Group,New York
+Principal Financial,Des Moines
+Dominion Energy,Richmond
+Kellogg,Battle Creek
+Fluor,Irving
+AECOM,Dallas
+Reliance Steel & Aluminum,Los Angeles
+Jacobs Engineering Group,Dallas
+Corning,Corning
+Farmers Insurance Exchange,Woodland Hills
+Qurate Retail,Englewood
+Pacific Life,Newport Beach
+PulteGroup,Atlanta
+Fidelity National Information Services,Jacksonville
+IQVIA Holdings,Durham
+Marriott International,Bethesda
+Berry Global Group,Evansville
+Ball,Westminster
+Group 1 Automotive,Houston
+Leidos Holdings,Reston
+Wayfair,Boston
+Consolidated Edison,New York
+Ameriprise Financial,Minneapolis
+Xcel Energy,Minneapolis
+O'Reilly Automotive,Springfield
+Global Partners,Waltham
+Discover Financial Services,Riverwoods
+Rocket Companies,Detroit
+LKQ,Chicago
+W.W. Grainger,Lake Forest
+Quanta Services,Houston
+Crown Holdings,Yardley
+Fox,New York
+Sempra,San Diego
+Markel,Glen Allen
+Carvana,Tempe
+XPO Logistics,Greenwich
+Baxter International,Deerfield
+Ecolab,St. Paul
+Tractor Supply,Brentwood
+Andersons,Maumee
+Keurig Dr Pepper,Burlington
+Universal Health Services,King of Prussia
+CSX,Jacksonville
+Henry Schein,Melville
+Sonic Automotive,Charlotte
+eBay,San Jose
+Textron,Providence
+Jones Financial (Edward Jones),Des Peres
+Community Health Systems,Franklin
+Mosaic,Tampa
+Thor Industries,Elkhart
+Dick's Sporting Goods,Coraopolis
+Newmont,Denver
+Devon Energy,Oklahoma City
+Warner Bros. Discovery,New York
+J.B. Hunt Transport Services,Lowell
+Alcoa,Pittsburgh
+Peter Kiewit Sons',Omaha
+Aramark,Philadelphia
+Vistra,Irving
+State Street,Boston
+Unum Group,Chattanooga
+Alleghany,New York
+Boston Scientific,Marlborough
+Westlake,Houston
+Entergy,New Orleans
+International Flavors & Fragrances,New York
+DaVita,Denver
+Mutual of Omaha Insurance,Omaha
+Assurant,New York
+Liberty Media,Englewood
+Hormel Foods,Austin
+Icahn Enterprises,Sunny Isles Beach
+Republic Services,Phoenix
+Mohawk Industries,Calhoun
+Conagra Brands,Chicago
+Norfolk Southern,Atlanta
+AES,Arlington
+AGCO,Duluth
+Caesars Entertainment,Reno
+Equitable Holdings,New York
+Advance Auto Parts,Raleigh
+Biogen,Cambridge
+Auto-Owners Insurance,Lansing
+Booking Holdings,Norwalk
+Amphenol,Wallingford
+Quest Diagnostics,Secaucus
+FirstEnergy,Akron
+DCP Midstream,Denver
+Ally Financial,Detroit
+Delek US Holdings,Brentwood
+Williams,Tulsa
+Newell Brands,Atlanta
+Eastman Chemical,Kingsport
+Air Products & Chemicals,Allentown
+Thrivent Financial for Lutherans,Minneapolis
+Molson Coors Beverage,Chicago
+Interpublic Group,New York
+Weyerhaeuser,Seattle
+Altice USA,Long Island City
+Raymond James Financial,St. Petersburg
+EMCOR Group,Norwalk
+Eversource Energy,Springfield
+Yum China Holdings,Plano
+Asbury Automotive Group,Duluth
+Owens & Minor,Mechanicsville
+Public Service Enterprise Group,Newark
+United Rentals,Stamford
+MGM Resorts International,Las Vegas
+Ryder System,Miami
+Intuit,Mountain View
+Cincinnati Financial,Fairfield
+Erie Insurance Group,Erie
+Univar Solutions,Downers Grove
+Huntington Ingalls Industries,Newport News
+W.R. Berkley,Greenwich
+Western & Southern Financial Group,Cincinnati
+Insight Enterprises,Tempe
+News Corp.,New York
+American Tower,Boston
+Old Republic International,Chicago
+Burlington Stores,Burlington
+Avis Budget Group,Parsippany
+ODP,Boca Raton
+VF Corp.,Denver
+Bed Bath & Beyond,Union
+Seaboard,Merriam
+First American Financial,Santa Ana
+Intercontinental Exchange,Atlanta
+PVH,New York
+Apollo Global Management,New York
+Jefferies Financial Group,New York
+Hershey,Hershey
+NVR,Reston
+Foot Locker,New York
+Dana,Maumee
+SpartanNash,Byron Center
+Olin,Clayton
+Chewy,Dania Beach
+Jackson Financial,Lansing
+Activision Blizzard,Santa Monica
+Toll Brothers,Fort Washington
+Carlyle Group,Washington
+Graybar Electric,St. Louis
+Ovintiv,Denver
+UFP Industries,Grand Rapids
+Ulta Beauty,Bolingbrook
+Constellation Brands,Victor
+Expedia Group,Seattle
+CommScope Holding,Hickory
+Celanese,Irving
+Global Payments,Atlanta
+Owens Corning,Toledo
+Campbell Soup,Camden
+Huntsman,The Woodlands
+Franklin Resources,San Mateo
+Avery Dennison,Glendale
+Masco,Livonia
+CenterPoint Energy,Houston
+Fifth Third Bancorp,Cincinnati
+WEC Energy Group,Milwaukee
+S&P Global,New York
+FM Global,Johnston
+Polaris,Medina
+Williams-Sonoma,San Francisco
+Autoliv,Auburn Hills
+Arthur J. Gallagher,Rolling Meadows
+Motorola Solutions,Chicago
+Zillow Group,Seattle
+Opendoor Technologies,San Francisco
+J.M. Smucker,Orrville
+Anywhere Real Estate,Madison
+Oshkosh,Oshkosh
+MasTec,Coral Gables
+GXO Logistics,Greenwich
+APA,Houston
+Boise Cascade,Boise
+Dover,Downers Grove
+Genworth Financial,Richmond
+Bath & Body Works,Columbus
+Booz Allen Hamilton Holding,McLean
+Coinbase Global,Wilmington
+Zimmer Biomet Holdings,Warsaw
+Westinghouse Air Brake Technologies,Pittsburgh
+Zoetis,Parsippany
+Packaging Corp. of America,Lake Forest
+LPL Financial Holdings,San Diego
+T. Rowe Price,Baltimore
+Fortune Brands Home & Security,Deerfield
+Casey's General Stores,Ankeny
+A-Mark Precious Metals,El Segundo
+Hess,New York
+Vertex Pharmaceuticals,Boston
+KeyCorp,Cleveland
+Chipotle,Newport Beach
+CMS Energy,Jackson
+Arconic,Pittsburgh
+Taylor Morrison Home,Scottsdale
+American Financial Group,Cincinnati
+UGI,King of Prussia
+Science Applications International,Reston
+Avantor,Radnor
+Hanesbrands,Winston-Salem
+Clorox,Oakland
+KBR,Houston
+TravelCenters of America,Westlake
+Hertz Global Holdings,Estero
+Analog Devices,Wilmington
+Securian Financial Group,St. Paul
+Darden Restaurants,Orlando
+NCR,Atlanta
+Graphic Packaging Holding,Atlanta
+Brighthouse Financial,Charlotte
+PPL,Allentown
+Cintas,Cincinnati
+Xerox Holdings,Norwalk
+Rockwell Automation,Milwaukee
+Citizens Financial Group,Providence
+KLA,Milpitas
+Camping World Holdings,Lincolnshire
+Ingredion,Westchester
+Veritiv,Atlanta
+Beacon Roofing Supply,Herndon
+Diamondback Energy,Midland
+Victoria's Secret,Reynoldsburg
+Academy Sports and Outdoors,Katy
+Sanmina,San Jose
+ON Semiconductor,Phoenix
+Commercial Metals,Irving
+EnLink Midstream,Dallas
+Southwestern Energy,Spring
+Equinix,Redwood City
+Dillard&#8217;s,Little Rock
+Regions Financial,Birmingham
+Yum Brands,Louisville
+Landstar System,Jacksonville
+CF Industries Holdings,Deerfield
+Northern Trust,Chicago
+Robert Half International,Menlo Park
+Compass,New York
+Hasbro,Pawtucket
+Roper Technologies,Sarasota
+ARKO,Richmond
+Frontier Communications,Norwalk
+Ameren,St. Louis
+O-I Glass,Perrysburg
+Chemours,Wilmington
+Crown Castle International,Houston
+Agilent Technologies,Santa Clara
+McCormick,Hunt Valley
+Skechers U.S.A.,Manhattan Beach
+Watsco,Miami
+Live Nation Entertainment,Beverly Hills
+Lululemon athletica,Sumner
+ABM Industries,New York
+Post Holdings,St. Louis
+Moody's,New York
+Select Medical Holdings,Mechanicsburg
+Alaska Air Group,Seattle
+Big Lots,Columbus
+Amkor Technology,Tempe
+Sinclair Broadcast Group,Hunt Valley
+RPM International,Medina
+M&T Bank,Buffalo
+Sprouts Farmers Market,Phoenix
+Huntington Bancshares,Columbus
+CACI International,Reston
+JetBlue Airways,Long Island City
+SVB Financial Group,Santa Clara
+Fastenal,Winona
+GameStop,Grapevine
+Knight-Swift Transportation Holdings,Phoenix
+Airbnb,San Francisco
+Patterson,St. Paul
+PENN Entertainment,Wyomissing
+ServiceNow,Santa Clara
+Nasdaq,New York
+Brunswick,Mettawa
+Resideo Technologies,Scottsdale
+Chesapeake Energy,Oklahoma City
+Petco Health and Wellness,San Diego
+Kemper,Chicago
+Hilton Worldwide Holdings,McLean
+Cerner,North Kansas City
+Levi Strauss,San Francisco
+Tapestry,New York
+NetApp,San Jose
+KB Home,Los Angeles
+Continental Resources,Oklahoma City
+Intuitive Surgical,Sunnyvale
+Under Armour,Baltimore
+MDU Resources Group,Bismarck
+Silgan Holdings,Stamford
+Ryerson Holding,Chicago
+Ingersoll Rand,Davidson
+Hologic,Marlborough
+Electronic Arts,Redwood City
+Zebra Technologies,Lincolnshire
+Coty,New York
+Schneider National,Green Bay
+Sonoco Products,Hartsville
+Concentrix,Fremont
+Evergy,Kansas City
+Cornerstone Building Brands,Cary
+Coca-Cola Consolidated,Charlotte
+Greif,Delaware
+Vulcan Materials,Birmingham
+Ametek,Berwyn
+Monster Beverage,Corona
+Sealed Air,Charlotte
+NOV,Houston
+Las Vegas Sands,Las Vegas
+Martin Marietta Materials,Raleigh
+Marathon Oil,Houston
+Mattel,El Segundo
+Microchip Technology,Chandler
+Harley-Davidson,Milwaukee
+Telephone & Data Systems,Chicago
+ADT,Boca Raton
+First Republic Bank,San Francisco
+Warner Music Group,New York
+Pool,Covington
+Old Dominion Freight Line,Thomasville
+Fortive,Everett
+MDC Holdings,Denver
+NGL Energy Partners,Tulsa
+Edwards Lifesciences,Irvine
+Hanover Insurance Group,Worcester
+Syneos Health,Morrisville
+Xylem,Washington
+Church & Dwight,Ewing
+American Axle & Manufacturing,Detroit
+Meritage Homes,Scottsdale
+Workday,Pleasanton
+Rush Enterprises,New Braunfels
+Yellow,Nashville
+Encompass Health,Birmingham
+Simon Property Group,Indianapolis
+Globe Life,McKinney
+Skyworks Solutions,Irvine
+Endeavor Group Holdings,Beverly Hills
+Twitter,San Francisco
+Leggett & Platt,Carthage
+Western Union,Denver
+PerkinElmer,Waltham
+SS&C Technologies Holdings,Windsor
+CUNA Mutual Group,Madison
+FMC,Philadelphia
+Carlisle,Scottsdale
+American Eagle Outfitters,Pittsburgh
+Core & Main,St. Louis
+Vertiv Holdings,Columbus
+Broadridge Financial Solutions,Lake Success
+Ingles Markets,Black Mountain
+TPG,Fort Worth
+Insperity,Kingwood
+Howmet Aerospace,Pittsburgh
+R.R. Donnelley & Sons,Chicago
+Keysight Technologies,Santa Rosa
+Tempur Sealy International,Lexington
+Scotts Miracle-Gro,Marysville
+Equifax,Atlanta
+Kelly Services,Troy
+NiSource,Merrillville
+OneMain Holdings,Evansville
+DoorDash,San Francisco
+Avient,Avon Lake
+Sanderson Farms,Laurel
+TransDigm Group,Cleveland
+Stifel Financial,St. Louis
+JELD-WEN Holding,Charlotte
+Ares Management,Los Angeles
+Elanco Animal Health,Greenfield
+Prologis,San Francisco
+Welltower,Toledo
+Darling Ingredients,Irving
+Juniper Networks,Sunnyvale
+Gartner,Stamford
+Par Pacific Holdings,Houston
+Hubbell,Shelton
+CME Group,Chicago
+Nexstar Media Group,Irving
+Tutor Perini,Sylmar
+Antero Resources,Denver
+Teledyne Technologies,Thousand Oaks
+Snap-on,Kenosha
+Rent-A-Center,Plano
+Covetrus,Portland
+Crestwood Equity Partners,Houston
+Louisiana-Pacific,Nashville
+Urban Outfitters,Philadelphia
+Penn Mutual Life Insurance,Horsham
+Amerco,Reno
+TriNet Group,Dublin
+Sentry Insurance Group,Stevens Point
+Illumina,San Diego
+Iron Mountain,Boston
+LCI Industries,Elkhart
+Marvell Technology,Wilmington
+PennyMac Financial Services,Westlake Village
+Digital Realty Trust,Austin
+TreeHouse Foods,Oak Brook
+Ralph Lauren,New York
+Mattress Firm Group,Houston
+American National Group,Galveston
+Autodesk,San Rafael
+Domino's Pizza,Ann Arbor
+ASGN,Glen Allen
+Flowers Foods,Thomasville
+BlueLinx Holdings,Marietta
+Palo Alto Networks,Santa Clara
+Maximus,Reston
+Dentsply Sirona,Charlotte
+Hub Group,Oak Brook
+Bread Financial Holdings,Columbus
+Voya Financial,New York
+Weis Markets,Sunbury
+Century Communities,Greenwood Village
+Synopsys,Mountain View
+Brink's,Richmond
+Lennox International,Richardson
+Service Corp. International,Houston
+Conduent,Florham Park
+Timken,North Canton
+Domtar,Fort Mill
+Bloomin' Brands,Tampa
+CNO Financial Group,Carmel
+Snap,Santa Monica
+Zoom Video Communications,San Jose
+Patrick Industries,Elkhart
+Paychex,Rochester
+Atlas Air Worldwide Holdings,Purchase
+Bright Health Group,Minneapolis
+Peloton Interactive,New York
+Country Financial,Bloomington
+Qorvo,Greensboro
+Catalent,Somerset
+Mercury General,Los Angeles
+AMN Healthcare Services,Dallas
+Tri Pointe Homes,Incline Village
+ArcBest,Fort Smith
+Toro,Bloomington
+Spirit AeroSystems Holdings,Wichita
+Align Technology,Tempe
+loanDepot,Foothill Ranch
+APi Group,New Brighton
+American Water Works,Camden
+Matson,Honolulu
+Diebold Nixdorf,Hudson
+Marriott Vacations Worldwide,Orlando
+Terex,Norwalk
+Sally Beauty Holdings,Denton
+Enovis,Wilmington
+IAC,New York
+Meritor,Troy
+Ventas,Chicago
+GoDaddy,Tempe
+Regal Rexnord,Beloit
+Puget Energy,Bellevue
+Clean Harbors,Norwell
+Pinnacle West Capital,Phoenix
+eXp World Holdings,Bellingham
+Mueller Industries,Collierville
+Wynn Resorts,Las Vegas
+RH,Corte Madera
+EPAM Systems,Newtown
+M/I Homes,Columbus
+Generac Holdings,Waukesha
+Mettler-Toledo International,Columbus
+Abercrombie & Fitch,New Albany
+Teradyne,North Reading
+American Equity Investment Life Holding,West Des Moines
+Southwest Gas Holdings,Las Vegas
+Pitney Bowes,Stamford
+Lamb Weston Holdings,Eagle
+Alliant Energy,Madison
+Resolute Forest Products,Calhoun
+Parsons,Centreville
+Trimble,Sunnyvale
+OGE Energy,Oklahoma City
+Garrett Motion,Plymouth
+Winnebago Industries,Eden Prairie
+Ciena,Hanover
+PriceSmart,San Diego
+Advantage Solutions,Irvine
+H&R Block,Kansas City
+iHeartMedia,San Antonio
+Super Micro Computer,San Jose
+Flowserve,Irving
+Charles River Laboratories International,Wilmington
+A.O. Smith,Milwaukee
+Rithm Capital,New York
+Medical Mutual of Ohio,Cleveland
+Granite Construction,Watsonville
+Valmont Industries,Omaha
+Sprague Resources,Portsmouth
+Primoris Services,Dallas
+Cboe Global Markets,Chicago
+Carter's,Atlanta
+TopBuild,Daytona Beach
+SiteOne Landscape Supply,Roswell
+Texas Roadhouse,Louisville
+Akamai Technologies,Cambridge
+Brown-Forman,Louisville
+Acuity Brands,Atlanta
+Navient,Wilmington
+Coterra Energy,Houston
+Option Care Health,Bannockburn
+Floor & Decor Holdings,Atlanta
+Public Storage,Glendale
+Cabot,Boston
+Crane Holdings,Stamford
+Atmos Energy,Dallas
+Selective Insurance Group,Branchville
+Take-Two Interactive Software,New York
+Boyd Gaming,Las Vegas
+Plexus,Neenah
+ScanSource,Greenville
+Franchise Group,Delaware
+NLV Financial,Montpelier
+CrossAmerica Partners,Allentown
+Mr. Cooper Group,Coppell
+Fortinet,Sunnyvale
+Brinker International,Dallas
+Albemarle,Charlotte
+Peabody Energy,St. Louis
+Light & Wonder,Las Vegas
+Evercore,New York
+Stewart Information Services,Houston
+Central Garden & Pet,Walnut Creek
+GMS,Tucker
+H.B. Fuller,St. Paul
+Middleby,Elgin
+Renewable Energy Group,Ames
+MSC Industrial Direct,Melville
+Vishay Intertechnology,Malvern
+Applied Industrial Technologies,Cleveland
+Lincoln Electric Holdings,Cleveland
+First Horizon,Memphis
+Spirit Airlines,Miramar
+AptarGroup,Crystal Lake
+Citrix Systems,Fort Lauderdale
+IDEXX Laboratories,Westbrook
+Tetra Tech,Pasadena
+Lyft,San Francisco
+Gannett,McLean
+ResMed,San Diego
+Designer Brands,Columbus
+Graham Holdings,Arlington
+Vroom,New York
+Worthington Industries,Columbus
+Calumet Specialty Products Partners,Indianapolis
+Xilinx,San Jose
+TransUnion,Chicago
+Travel + Leisure,Orlando
+Topgolf Callaway Brands,Carlsbad
+Dycom Industries,Palm Beach Gardens
+Columbia Sportswear,Portland
+Coherent,Saxonburg
+Change Healthcare,Nashville
+Grocery Outlet Holding,Emeryville
+AMC Networks,New York
+Hyster-Yale Materials Handling,Cleveland
+ChampionX,The Woodlands
+Comfort Systems USA,Houston
+EQT,Pittsburgh
+Brown & Brown,Daytona Beach
+LGI Homes,The Woodlands
+Hyatt Hotels,Chicago
+Comerica,Dallas
+Energizer Holdings,St. Louis
+Hill-Rom Holdings,Chicago
+Rackspace Technology,San Antonio
+Verisk Analytics,Jersey City
+Spectrum Brands Holdings,Middleton
+Euronet Worldwide,Leawood
+TEGNA,Tysons
+Vontier,Raleigh
+Cadence Design Systems,San Jose
+Incyte,Wilmington
+Match Group,Dallas
+Valvoline,Lexington
+EnerSys,Reading
+Avaya Holdings,Durham
+UWM Holdings,Pontiac
+Zions Bancorp.,Salt Lake City
+Quad/Graphics,Sussex
+MKS Instruments,Andover
+Arista Networks,Santa Clara
+Interactive Brokers Group,Greenwich
+Range Resources,Fort Worth
+Atkore,Harvey
+Cheesecake Factory,Calabasas Hills
+First Solar,Tempe
+Bio-Rad Laboratories,Hercules
+Cooper Cos.,San Ramon
+Envista Holdings,Brea
+Alight,Lincolnshire
+Newmark Group,New York
+PC Connection,Merrimack
+Host Hotels & Resorts,Bethesda
+Boston Properties,Boston
+Western Midstream Partners,The Woodlands
+Magellan Midstream Partners,Tulsa
+Hillenbrand,Batesville
+Donaldson,Minneapolis
+Moog,East Aurora
+Hawaiian Electric Industries,Honolulu
+Five Below,Philadelphia
+Twilio,San Francisco
+Univision Communciations,New York
+Annaly Capital Management,New York
+Fleetcor Technologies,Atlanta
+West Pharmaceutical Services,Exton
+Green Plains,Omaha
+Cracker Barrel Old Country Store,Lebanon
+Virtu Financial,New York
+Teleflex,Wayne
+Zynga,San Francisco
+ATI,Pittsburgh
+AppLovin,Palo Alto
+Waters,Milford
+Mutual of America Life Insurance,New York
+Hovnanian Enterprises,Matawan
+Amica Mutual Insurance,Lincoln
+Caleres,St. Louis
+FTI Consulting,Washington
+Overstock.com,Midvale
+Visteon,Van Buren Township
+G-III Apparel Group,New York
+ITT,White Plains
+IDEX,Northbrook
+Popular,Hato Rey
+Roku,San Jose
+Schnitzer Steel Industries,Portland
+Brookdale Senior Living,Brentwood
+Werner Enterprises,Omaha
+Americold Realty Trust,Atlanta
+SkyWest,St. George
+Primerica,Duluth
+McAfee,San Jose
+Nu Skin Enterprises,Provo
+Copart,Dallas
+PROG Holdings,Draper
+Splunk,San Francisco
+MRC Global,Houston
+Stericycle,Bannockburn
+Maxim Integrated Products,San Jose
+Ensign Group,San Juan Capistrano
+SM Energy,Denver
+Kaiser Aluminum,Foothill Ranch
+Federated Mutual Insurance,Owatonna
+F5,Seattle
+Steelcase,Grand Rapids
+Encore Wire,McKinney
+Guess,Los Angeles
+Playtika Holding,Henderson
+Pinterest,San Francisco
+WeWork,New York
+ManTech International,Herndon
+BrightView Holdings,Blue Bell
+NortonLifeLock,Tempe
+Deckers Outdoor,Goleta
+Griffon,New York
+AMC Entertainment Holdings,Leawood
+Curtiss-Wright,Davidson
+MYR Group,Henderson
+Kontoor Brands,Greensboro
+Liberty Energy,Denver
+Knights of Columbus,New Haven
+AdaptHealth,Plymouth Meeting
+MillerKnoll,Zeeland
+Equity Residential,Chicago
+DexCom,San Diego
+Rollins,Atlanta
+Genesco,Nashville
+Bruker,Billerica
+Joann,Hudson
+Wolverine World Wide,Rockford
+Gray Television,Atlanta
+Affiliated Managers Group,West Palm Beach
+Summit Materials,Denver
+SLM,Newark
+Belden,St. Louis
+Allison Transmission Holdings,Indianapolis
+Element Solutions,Fort Lauderdale
+Portland General Electric,Portland
+REV Group,Brookfield
+Acadia Healthcare,Franklin
+Alexandria Real Estate Equities,Pasadena
+Nordson,Westlake
+NewMarket,Richmond
+Ohio National Mutual,Cincinnati
+Stepan,Northbrook
+Valhi,Dallas
+Hilton Grand Vacations,Orlando
+Cooper-Standard Holdings,Northville
+Etsy,Brooklyn
+Crocs,Broomfield
+Olympic Steel,Highland Hills
+Signature Bank,New York
+SBA Communications,Boca Raton
+Murphy Oil,Houston
+Entegris,Billerica
+AvalonBay Communities,Arlington
+Saia,Johns Creek
+E.W. Scripps,Cincinnati
+TTEC Holdings,Englewood
+Sun Communities,Southfield
+Alpha Metallurgical Resources,Bristol
+GEO Group,Boca Raton
+Viasat,Carlsbad
+Benchmark Electronics,Tempe
+Kar Auction Services,Carmel
+TTM Technologies,Santa Ana
+Kirby,Houston
+Woodward,Fort Collins
+Clear Channel Outdoor Holdings,San Antonio
+Spire,St. Louis
+Vista Outdoor,Anoka
+Surgery Partners,Brentwood
+LHC Group,Lafayette
+Amedisys,Baton Rouge
+Century Aluminum,Chicago
+Arch Resources,St. Louis
+Aerojet Rocketdyne Holdings,El Segundo
+Sleep Number,Minneapolis
+HNI,Muscatine
+Pure Storage,Mountain View
+TrueBlue,Tacoma
+Party City Holdco,Elmsford
+Dun & Bradstreet Holdings,Jacksonville
+Dropbox,San Francisco
+New Jersey Resources,Wall
+Acushnet Holdings,Fairhaven
+Harsco,Camp Hill
+Beazer Homes USA,Atlanta
+Chemed,Cincinnati
+Genesis Energy,Houston
+BWX Technologies,Lynchburg
+Vizio Holding,Irvine
+1-800-Flowers.com,Jericho
+Cowen,New York
+Ashland,Wilmington
+DocuSign,San Francisco
