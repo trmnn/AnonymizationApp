@@ -1,0 +1,3 @@
+https://www.kaggle.com/datasets/winston56/fortune-500-data-2021
+https://www.kaggle.com/datasets/onlyrohit/employees-of-chicago
+https://www.kaggle.com/datasets/iamsouravbanerjee/airline-dataset
